@@ -1,4 +1,4 @@
-from Ex1_V2 import *
+from framework_automated_aproach import *
 
 users = Users()
 posts = Posts()
